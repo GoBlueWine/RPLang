@@ -1,5 +1,7 @@
 # RPLang
 
+> Read this README in Russian: [Русская версия](README.ru.md)
+
 RPLang is a model description language for Go projects.
 
 It lets you describe your models once and generate the repetitive layers around them: transport code, storage helpers, validation, metadata, and other runtime-specific glue.
